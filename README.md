@@ -4,7 +4,7 @@
 
 🌐 **Homepage**: [https://seedance2.cloud](https://seedance2.cloud?utm_source=github&utm_medium=referral&utm_campaign=20260420_v5_github&utm_content=homepage)
 📋 **Pricing**: [https://seedance2.cloud/pricing](https://seedance2.cloud/pricing?utm_source=github&utm_medium=referral&utm_campaign=20260420_v5_github&utm_content=pricing)
-🎬 **Gallery**: [https://seedance2.cloud/gallery](https://seedance2.cloud/gallery?utm_source=github&utm_medium=referral&utm_campaign=20260420_v5_github&utm_content=gallery)
+🎬 **Gallery**: [https://seedance2.cloud/showcases](https://seedance2.cloud/showcases?utm_source=github&utm_medium=referral&utm_campaign=20260420_v5_github&utm_content=showcases)
 
 ---
 
@@ -32,7 +32,7 @@ The platform wraps the Seedance 2.0 video model with a template library, image-r
 ## Getting started
 
 1. Sign up at [seedance2.cloud](https://seedance2.cloud?utm_source=github&utm_medium=referral&utm_campaign=20260420_v5_github&utm_content=signup) — free trial credits included.
-2. Pick a template from the [gallery](https://seedance2.cloud/gallery?utm_source=github&utm_medium=referral&utm_campaign=20260420_v5_github&utm_content=gallery_step2) or start from a prompt.
+2. Pick a template from the [gallery](https://seedance2.cloud/showcases?utm_source=github&utm_medium=referral&utm_campaign=20260420_v5_github&utm_content=showcases_step2) or start from a prompt.
 3. Upload a reference image (optional) for face consistency.
 4. Generate — typical wait time is ~5 minutes per clip.
 5. Download the result (MP4) or iterate on the prompt.
@@ -57,7 +57,7 @@ For partnership or technical inquiries: `hello@seedance2.cloud`.
 
 - **Main site**: https://seedance2.cloud?utm_source=github&utm_medium=referral&utm_campaign=20260420_v5_github&utm_content=resources_main
 - **Pricing**: https://seedance2.cloud/pricing?utm_source=github&utm_medium=referral&utm_campaign=20260420_v5_github&utm_content=resources_pricing
-- **Gallery** (examples): https://seedance2.cloud/gallery?utm_source=github&utm_medium=referral&utm_campaign=20260420_v5_github&utm_content=resources_gallery
+- **Gallery** (examples): https://seedance2.cloud/showcases?utm_source=github&utm_medium=referral&utm_campaign=20260420_v5_github&utm_content=resources_showcases
 - **Blog**: https://seedance2.cloud/blog?utm_source=github&utm_medium=referral&utm_campaign=20260420_v5_github&utm_content=resources_blog
 - **Contact**: hello@seedance2.cloud
 
